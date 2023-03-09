@@ -1,0 +1,1 @@
+import{Q as e}from"./QBtn.5f9a9eb7.js";import{_ as o,J as r,U as c,M as t}from"./index.436b8fe8.js";const a={};function n(l,s){return r(),c("div",null,[t(e,{class:"q-mt-xl",color:"light-pink","text-color":"dark-brown",unelevated:"",to:"/",label:"Accueil","no-caps":""})])}var m=o(a,[["render",n]]);export{m as G};
